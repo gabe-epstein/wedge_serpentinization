@@ -1,0 +1,5 @@
+Calculation were performed in Perple_X v7.0.1
+
+Subfolders contain build files and dependencies. Solid solution models are included within the build files.
+
+All files use the same solution_model.dat file provided in this folder.
