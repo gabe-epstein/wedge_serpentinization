@@ -1,0 +1,9 @@
+This folder contains all Perple_X files specific to the metasedimentary pseudosections
+
+carbonate.dat
+diatomite.dat (siliceous ooze)
+pelagic.dat
+terrigenous.dat
+turbidite.dat
+
+These files all use the same thermodynamic database and option file, included in this folder
