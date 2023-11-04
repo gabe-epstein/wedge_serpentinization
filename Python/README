@@ -1,0 +1,5 @@
+This folder contains the Jupyter Notebook Files as well as the required text files to reproduce the modeling undertaken in the manuscript
+
+For best results this entire folder should be downloaded into your home directory so that paths to files do not get corrupted. If the data is downloaded piecewise then paths to pertinent files will need to be repaired during the initial run.
+
+Further descriptions can be found below and as comments within the files
