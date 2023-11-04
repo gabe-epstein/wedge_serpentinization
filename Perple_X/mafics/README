@@ -1,0 +1,8 @@
+This folder contains all Perple_X files specific to the mafic pseudosections
+
+upper extrusives = 032323_ue90.dat
+lower extrusives = 032323_le90.dat
+sheeted dikes = 032323_sd90.dat
+gabbro = 032323_g90.dat
+
+These files all use the same thermodynamic database and option file, included in this folder
