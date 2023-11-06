@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Epstein"
+  given-names: "Gabe"
+  orcid: "https://orcid.org/0000-0002-1842-5862"
+title: "wedge_serpentinization"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2023-11-06
+url: "https://github.com/gabe-epstein/wedge_serpentinization"
