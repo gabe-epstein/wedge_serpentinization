@@ -3,3 +3,13 @@ This folder contains the Jupyter Notebook Files as well as the required text fil
 For best results this entire folder should be downloaded into your home directory so that paths to files do not get corrupted. If the data is downloaded piecewise then paths to pertinent files will need to be repaired during the initial run.
 
 Further descriptions can be found below and as comments within the files
+
+To start analysis: Best practice is to create a new environment using the environment.yml file. This can be done in the terminal by entering the command:
+
+    conda env create -f environment.yml
+
+To run notebooks in the environment use the following command:
+
+    conda activate wedge_serpentinization
+
+Now you can open the notebook in Jupyter notebooks, which should be running within the wedge_serpentinization environment. 
