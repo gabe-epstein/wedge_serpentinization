@@ -1,0 +1,5 @@
+This folder contains data pertinent to the forearc thermal structure.
+There are two textfiles for each timestep: 
+  1. The X-Z position of the slabtop: {timestep}.slabtop.txt
+  2. The X-Z-temerature conditions of the model: {timestep}.wedgeT.txt
+    The wedgeT files represent a 1kmx1km grid size over 200x650 km (Z*X) grid.
