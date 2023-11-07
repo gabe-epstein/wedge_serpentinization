@@ -1,4 +1,4 @@
-name: wedge_serpentinizatiion
+name: wedge_serpentinization
 channels:
   - conda-forge
 dependencies:
