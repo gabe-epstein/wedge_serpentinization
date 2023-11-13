@@ -1,8 +1,20 @@
-This folder contains the Jupyter Notebook Files as well as the required text files to reproduce the modeling undertaken in the manuscript
+This folder contains the Jupyter Notebook Files as well as the required text files to reproduce the modeling undertaken in the manuscript.
 
+See end of this file for description on how to initiate the notebooks.
+
+The notebook file: wedge_serpentinization_weak.ipynb is the file for the weak crustal case. The text files to run this are located within
+the "holt2e20" folder.
+
+The notebook file: wedge_serpentinization_strong.ipynb is for the strong crustal case. The text files to run this are located within the 
+"holt4e20" folder.
+
+The notebook files: forearc_thermal_weak.ipynb  and forearc_thermal_strong.ipynb are for determining H2O capacity of the wedge for the two
+strength cases. These notebooks require text files within the "wedge_PT" and "wedge_PT4e20" folders.
+
+
+##RUNNING NOTEBOOKS-------------------------##
+Requirements: Python and Jupyter Notebooks
 For best results this entire folder should be downloaded into your home directory so that paths to files do not get corrupted. If the data is downloaded piecewise then paths to pertinent files will need to be repaired during the initial run.
-
-Further descriptions can be found below and as comments within the files
 
 To start analysis: Best practice is to create a new environment using the environment.yml file. This can be done in the terminal by entering the command:
 
