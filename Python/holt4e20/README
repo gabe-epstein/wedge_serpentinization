@@ -1,0 +1,10 @@
+Slab P-T conditions for the strong crust case as well as pertinent perplex files to be read in and a description of the data structure that is produced.
+
+P-T files: {age_step}.{depth_from_slabtop}.txt
+  age step: 0 to 114
+  depth: slabtop, 5km, 10km, moho
+  consists of 5 columns: X-position(km), Z-Position(km), lithostatic_P(GPa), Total_P(GPa), Temperature(C)
+
+age_convergence.txt consists of 4 columns: agestep, model age, convergence at trench (cm/yr), dip at 125km
+
+README_data_structures.txt: text file describing the data structures produced within the Jupyter Notebooks.
